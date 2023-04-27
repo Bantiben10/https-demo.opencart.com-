@@ -1,0 +1,23 @@
+{
+  "name": "https-demo.opencart.com-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bantiben10/https-demo.opencart.com-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bantiben10/https-demo.opencart.com-/issues"
+  },
+  "homepage": "https://github.com/Bantiben10/https-demo.opencart.com-#readme"
+}
